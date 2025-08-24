@@ -137,3 +137,9 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+
+# All folders
+/ARW-Vignesh-20250824T141406Z-1-001/*
+/CRW-Neeraja-20250824T141356Z-1-001/*
+/PRe-ShrutiSU/Week*
+/UI2-Tony_Kurian/*
